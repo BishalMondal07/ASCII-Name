@@ -1,3 +1,4 @@
+#It is inspired by Aleksandar Stevanovi
 ime = input("Enter your name: \n\n")
 for c in ime:
     c = c.upper()
